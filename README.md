@@ -1,4 +1,4 @@
-## Welcome to Number Joke-Generator:page_facing_up:!
+## Welcome to Joke-Generator:page_facing_up:!
 
 Hi! **Joke Generator** is make for getting jokes on your Counts:smiley:
 
